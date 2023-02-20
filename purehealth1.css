@@ -1,0 +1,27 @@
+body {
+  background-color: #d1e0e0;
+  opacity: 0.9;
+}
+
+
+
+h1 {
+  color: navy;
+  font-family: Copperplate, Arial, Times;
+  margin-left: 20px;
+}
+h2 {
+  color: navy;
+  margin-left: 20px;
+  font: Arial;
+}
+p {
+  color: black;
+  margin-left:25px;
+  font-size: 24px;
+  }
+li {
+  color: black;
+  margin-left:25px;
+  font-size: 24px;
+}

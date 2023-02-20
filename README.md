@@ -1,1 +1,1 @@
-# PureHealthCCM
+# PureHealthCCM, an example of a medical website
